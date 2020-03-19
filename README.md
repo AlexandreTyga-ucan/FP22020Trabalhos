@@ -1,2 +1,2 @@
 # FP22020Trabalhos
-aqui seram armazenados qualquer tipo código relacionados a fundamentos de programação II
+aqui seram armazenados qualquer tipo trabalho relacionados a fundamentos de programação II
